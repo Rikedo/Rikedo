@@ -1,6 +1,6 @@
-### Hi there! 
+### *Hi there!*
 
-## Experiences
+### Experiences
 
 - *Data Scientist – 4INTELLIGENCE (Aug 2024 – Present)*
 - *Junior Data Scientist – 4INTELLIGENCE (Jan 2023 – Jul 2024 )*
