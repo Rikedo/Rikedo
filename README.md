@@ -1,4 +1,6 @@
-### *Hi there!*
+### **Hi there!**
+
+My name is Ricardo, and I'm a Data Scientist with experience in Geospatial Analysis and Time Series Modelling
 
 ### Experiences
 
